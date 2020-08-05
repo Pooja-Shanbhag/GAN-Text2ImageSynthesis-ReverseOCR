@@ -18,4 +18,4 @@ Example:
 
 For the complete report of the project right from architecture building to model analysis click [here](Text%20to%20Image%20Synthesis%20using%20GAN%20Final%20Report.pdf)
 
-For Image Synthesis, please refer to [this](https://github.com/anant10/GAN-Image2Image) project where Image is generated from random noise. There are two implementations of GAN i.e. Vanilla GAN(Using fully connected neural Network) and DCGAN (using Deep Convolutional Networks).
+For Image Synthesis, please refer to [this](https://github.com/Pooja-Shanbhag/ImageGeneration_GAN) project where Image is generated from random noise. There are two implementations of GAN i.e. Vanilla GAN(Using fully connected neural Network) and DCGAN (using Deep Convolutional Networks).
